@@ -1,0 +1,12 @@
+INSERT INTO measure (measure_id, measure_name) VALUES (1, 'Buses');
+INSERT INTO measure (measure_id, measure_name) VALUES (2, 'Trucks');
+INSERT INTO measure (measure_id, measure_name) VALUES (3, 'Pedestrians');
+INSERT INTO measure (measure_id, measure_name) VALUES (4, 'Personal Vehicles');
+INSERT INTO measure (measure_id, measure_name) VALUES (5, 'Personal Vehicle Passengers');
+INSERT INTO measure (measure_id, measure_name) VALUES (6, 'Truck Containers Loaded');
+INSERT INTO measure (measure_id, measure_name) VALUES (7, 'Truck Containers Empty');
+INSERT INTO measure (measure_id, measure_name) VALUES (8, 'Rail Containers Empty');
+INSERT INTO measure (measure_id, measure_name) VALUES (9, 'Bus Passengers');
+INSERT INTO measure (measure_id, measure_name) VALUES (10, 'Trains');
+INSERT INTO measure (measure_id, measure_name) VALUES (11, 'Train Passengers');
+INSERT INTO measure (measure_id, measure_name) VALUES (12, 'Rail Containers Loaded');
